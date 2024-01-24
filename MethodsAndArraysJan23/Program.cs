@@ -120,6 +120,7 @@ namespace MethodsAndArraysJan23
                 Console.Write(arr[i] + ", ");
             }
 
+            int[] arr = { 1, 5, 3, 1, 5 };
             /* int[] newArr = ReverseArray(arr);
              for(int i = 0;i < newArr.Length;i++) 
              {
